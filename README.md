@@ -15,7 +15,7 @@ It consist of 6 Signs:
 6.ThankYou
 
 
-1. **Clone the project:**
+**1.Clone the project:**
 ``git clone https://github.com/   rajandevkota98/SignLanguageDetectionInVideo.git``
 
 
